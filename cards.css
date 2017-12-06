@@ -1,0 +1,25 @@
+textarea {
+    display: block;
+}
+
+button {
+    display: block;
+}
+
+.theCard {
+    display: inline-block;
+    width: 20vw;
+    height: 100%;
+    border: 2vw groove tomato;
+    text-align: center;
+}
+
+.theCard p {
+    margin: 1em;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+.delete {
+    color: blue;
+    margin: 1vw auto;
+}
